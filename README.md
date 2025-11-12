@@ -52,7 +52,7 @@ cd gestion-paises
 
 Ejecute el programa principal:
 ```bash
-python main.py
+TpGestionPaisesFinal.py
 ```
 
 ### 3. Navegación por el Menú
@@ -205,12 +205,6 @@ Alemania,83149300,357022,Europa
 - Estructuras de datos: listas y diccionarios
 - Funciones modulares para organización del código
 - Control de flujo con condicionales y bucles
-
-## Contacto y Soporte
-
-Para consultas o reportar problemas:
-- Repositorio: https://github.com/usuario/gestion-paises
-- Issues: https://github.com/usuario/gestion-paises/issues
 
 ## Licencia
 
